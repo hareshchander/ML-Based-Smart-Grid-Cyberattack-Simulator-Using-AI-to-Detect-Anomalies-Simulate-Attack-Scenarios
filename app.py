@@ -56,7 +56,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # App Title & Header
-st.title("⚡ GridShield AI: Smart Grid Cyberattack Simulator")
+st.title("⚡ ML‑Based Smart Grid Cyberattack Simulator Using AI to Detect Anomalies & Simulate Attack Scenarios")
 st.markdown("""
 Welcome to **GridShield AI**. This application simulates smart grid behavior and uses machine learning 
 to detect **False Data Injection Attacks (FDIA)** and anomalies in real-time.
